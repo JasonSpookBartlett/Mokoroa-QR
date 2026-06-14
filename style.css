@@ -34,7 +34,7 @@ body {
   width: min(900px, 100%);
   padding: clamp(24px, 5vw, 46px);
   border-radius: 28px;
-  background: rgba(255,255,255,0.94);
+  background: rgba(255,255,255,0.96);
   border: 1px solid var(--line);
   box-shadow: 0 24px 80px var(--shadow);
 }
