@@ -1,19 +1,11 @@
-# Mokoroa QR — Cue Repairs
+# Mokoroa QR — Cue Repairs Logo Update
 
-Updated black and blue theme.
+This update adds the Mokoroa Studios SVG logo to the page and keeps the black/blue colour theme.
 
-Live site:
-https://jasonspookbartlett.github.io/Mokoroa-QR/
-
-Files to replace in GitHub:
+Upload/replace these in GitHub:
 - index.html
 - style.css
+- assets/mokoroa-logo.svg
 
-Contact details:
-- Jason Bartlett
-- +64 272 976 551
-- cues@mokoroastudios.co.nz
-- Based in Waitakere, Auckland, New Zealand
-
-WhatsApp pre-filled text:
-Hi Jason, I got your details from Pool and Blues and would like to enquire about cue repairs.
+Live URL:
+https://jasonspookbartlett.github.io/Mokoroa-QR/
