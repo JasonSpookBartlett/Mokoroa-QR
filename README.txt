@@ -1,11 +1,8 @@
-# Mokoroa QR — Cue Repairs Logo Update
+Mokoroa Studios - White Theme Update
 
-This update adds the Mokoroa Studios SVG logo to the page and keeps the black/blue colour theme.
-
-Upload/replace these in GitHub:
+Replace the following in GitHub:
 - index.html
 - style.css
 - assets/mokoroa-logo.svg
 
-Live URL:
-https://jasonspookbartlett.github.io/Mokoroa-QR/
+This package contains the white-background version requested.
